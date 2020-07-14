@@ -10,5 +10,5 @@
   },
   "navbarComponent": "navbar.js",
   "browserTitle": "BioPortal - Nextstrain",
-  "serverAddress": "/auspice"
+  "serverAddress": "/nextstrain"
 }
