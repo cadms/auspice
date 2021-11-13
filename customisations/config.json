@@ -10,5 +10,10 @@
   },
   "navbarComponent": "navbar.js",
   "browserTitle": "BioPortal - Nextstrain",
-  "serverAddress": "/nextstrain"
+  "serverAddress": "/nextstrain",
+    "mapTiles": {
+    "api": "https://a.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "attribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors",
+    "mapboxWordmark": false
+  }
 }
